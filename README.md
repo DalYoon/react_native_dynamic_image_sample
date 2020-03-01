@@ -1,4 +1,4 @@
-# React Native Dynamic Image Width Sample
+# React Native Resonsive Image Height Sample
 
 Sample code for implementing { width: 100%, height: auto } in React Native
 
